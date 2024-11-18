@@ -1,5 +1,6 @@
-import './App.css'
-import heading from './components/heading'
+import React, {useState} from 'react';
+import Heading from './components/heading'
+import paragraph from './components/paragraph'
 
 function App() {
   const [count, setCount] = useState(0)
