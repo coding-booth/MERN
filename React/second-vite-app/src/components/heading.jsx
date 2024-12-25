@@ -1,9 +1,9 @@
 import { Component } from "react";
 import './heading.css';
 
-class heading extends Component{
+class Heading extends Component{
     render(){
-        return  <h1 className="heading">class vs function comp</h1>;
+        return  <h1 className='Heading'>class vs function comp</h1>;
     }
 }
-export default heading;
+export default Heading;
