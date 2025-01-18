@@ -1,0 +1,14 @@
+.choice-button{
+    background-color: rgb(96, 216, 96);
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid black;
+    color: aliceblue;
+    font-size: 15px;
+}
+.choice-button:hover{
+    background-color: green;
+}
+.choice-button:active{
+    background-color: lightcoral;
+}
